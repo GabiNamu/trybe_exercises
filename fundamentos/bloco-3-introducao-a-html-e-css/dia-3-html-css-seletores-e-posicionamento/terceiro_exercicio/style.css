@@ -1,0 +1,17 @@
+.centralizar{
+    text-align: center;
+}
+
+.lista:hover{
+    background-color: red;
+    cursor: pointer;
+}
+
+.lista:active{
+    font-style: italic;
+    
+}
+
+li{
+    list-style: none;
+}
