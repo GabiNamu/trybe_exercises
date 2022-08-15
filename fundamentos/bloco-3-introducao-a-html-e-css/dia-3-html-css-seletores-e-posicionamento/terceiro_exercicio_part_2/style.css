@@ -1,0 +1,50 @@
+div:hover{
+    border: 3px solid red;
+}
+
+div:nth-of-type(1){
+    border: 3px solid pink;
+}
+
+div:nth-of-type(2){
+    border: 3px solid blueviolet;
+}
+
+div:nth-of-type(3){
+    border:3px solid green;
+    padding: 100px;
+}
+div:nth-of-type(4){
+    border: 3px solid yellow;
+}
+
+div:nth-of-type(5){
+    border: 3px solid blue;
+}
+
+div:nth-of-type(1) > h3{
+    color: aqua;
+}
+
+div:nth-of-type(2) > h3{
+    font-weight: bold;
+}
+
+div:nth-of-type(3) > h3{
+    color:brown;
+}
+
+div:nth-of-type(4) > h3{
+    font-style: italic;
+}
+
+div:nth-of-type(5) > h3{
+    font-family: fantasy;
+}
+
+ div:nth-of-type(odd) > h3{ 
+     font-style: italic; 
+ } 
+
+
+
