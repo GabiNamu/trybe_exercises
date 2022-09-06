@@ -1,0 +1,62 @@
+header{
+    padding: 100px;
+}
+
+
+.bloco_esquerda{
+    display: inline-block;
+    margin-left: 200px;
+    width: 30%;
+
+}
+
+.bloco_direita{
+    float: right;
+    margin-right: 180px;
+    width: 30%;
+}
+
+.text_center {
+    text-align: center;
+}
+
+a{
+    display: block;
+    text-decoration: none;
+}
+
+a:hover{
+    color: red;
+}
+
+#rosa {
+    background-color: pink;
+}
+
+#roxo {
+    background-color: purple;
+    color: aliceblue;
+}
+
+#preto {
+    background-color: black;
+    color: white;
+}
+
+#azul {
+    background-color: blue;
+}
+
+#vermelho{
+    background-color: red;
+}
+
+#verde {
+    background-color: green;
+}
+
+.grey:active{
+    background-color: gray;
+}
+
+
